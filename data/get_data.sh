@@ -5,3 +5,5 @@ wget https://engineering.arm.gov/~collis/osrsc/KDVN_110608.nexrad
 wget https://engineering.arm.gov/~collis/osrsc/KILX_110437.nexrad
 wget https://engineering.arm.gov/~collis/osrsc/KLOT_110622.nexrad
 wget https://engineering.arm.gov/~collis/osrsc/IL_grid.nc
+wget https://github.com/jjhelmus/pyart2baltrad/raw/master/data/sgpcsaprppi_20110520095101.nc
+wget https://engineering.arm.gov/~collis/osrsc/CHL20100621_222020
